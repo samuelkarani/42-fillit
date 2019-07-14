@@ -6,4 +6,6 @@ a.out
 .nfs*
 .vscode
 .DS_Store
+
 fillit.dSYM
+._*
